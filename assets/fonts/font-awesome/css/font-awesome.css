@@ -612,6 +612,9 @@
 .fa-lemon-o:before {
   content: "\f094";
 }
+.fa-file-alt:before{
+  content: "\f15c";
+}
 .fa-phone:before {
   content: "\f095";
 }

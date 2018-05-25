@@ -787,10 +787,10 @@ blockquote {
     margin-bottom: 1rem;
     text-align: center; }
   .about .tagline {
-    font-size: 1.1rem;
+    font-size: 1.0rem;
     text-align: center;
     color: #6F6F6F;
-    letter-spacing: 5px;
+    letter-spacing: 2px;
     font-weight: 400;
     margin: 0 auto 2rem;
     max-width: 500px; }

@@ -9,9 +9,9 @@ permalink: ':title/'
 blog_theme: light # Or use dark
 
 # Profile information
-name: Kevin Chan
+name: About Me # top left corner of landing page
 tagline: Computer Science and Microbiology
-about-description: Hi I'm Kevin, a fourth year honour's student majoring in Microbiology, Immunology and Computer Science at UBC. I'm interested in bioinformatics - particularly the development of bioinformatic software, algorithm development, and the usage of such software for analysis. # Add Discription
+about-description: Hi! I'm Kevin, a fourth year honour's student majoring in Microbiology, Immunology, and Computer Science at the University of British Columbia. Click around to find out more about me. # Add Discription
 pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
