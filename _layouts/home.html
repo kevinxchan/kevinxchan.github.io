@@ -24,13 +24,14 @@ layout: default
           <li class="email"><a href="mailto:sheludkoartem@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i> sheludkoartem@gmail.com</a></li>
         {% endif %}
 
-          <!--TODO: add href to CV -->
-          <li class="far"><a href="tel:{{site.phone}}"><i class="fa fa-file-alt"></i> CV</a></li>
+          <li class="far"><a href="{{site.url}}/assets/pdf/cv.pdf"><i class="fa fa-file-alt"></i> CV</a></li>
+
+        <!-- Comment out phone number. May need for later use
         {% if site.phone %}
           <li class="phone"><a href="tel:{{site.phone}}"><i class="fa fa-phone"></i> {{site.phone}}</a></li>
         {% else %}
           <li class="phone"><a href="tel:044 825 5523"><i class="fa fa-phone" aria-hidden="true"></i> 044 825 5523</a></li>
-        {% endif %}
+        {% endif %} -->
 
         {% if site.website %}
           <li class="website"><a href="http://{{site.website}}" target="_blank"><i class="fa fa-globe"></i> {{site.website}}</a></li>
