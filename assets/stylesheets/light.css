@@ -908,6 +908,11 @@ blockquote {
     text-transform: uppercase;
     text-align: center;
     font-size: 0.7rem; }
+  .footer .sourcecode {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 0.7rem;
+  }
 
 @media screen and (min-width: 500px) {
   html {
