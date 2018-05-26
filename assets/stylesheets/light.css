@@ -433,6 +433,14 @@ a {
   transition: all .3s; }
   a:hover {
     color: rgba(111, 111, 111, 0.7); }
+a.text {
+  font-weight: bold;
+  color: #6F6F6F;
+  text-decoration: none;
+  transition: all .3s; }
+  a:hover {
+  color: rgba(111, 111, 111, 0.7); }
+}
 
 blockquote {
   border-left: 5px solid #6F6F6F;
@@ -873,7 +881,7 @@ blockquote {
   margin-bottom: 3rem; }
   .page-header .page-title {
     margin-bottom: 0.7rem;
-    color: #c7c7c7; }
+    color: #6f6f6f; }
   .page-header .page-list-date {
     font-family: monospace;
     font-weight: 400;
