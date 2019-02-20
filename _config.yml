@@ -9,7 +9,7 @@ blog_theme: light # Or use dark
 name: Home # top left corner of landing page (not really name)
 tagline: Computer Science and Microbiology
 about-description: Hi! I'm Kevin, a fourth year honour's student majoring in Microbiology, Immunology, and Computer Science at the University of British Columbia. Click around to find out more about me. # Add Discription
-pic: pic_dim.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
+pic: pic_dim.png  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
 email: kevcwchan@gmail.com # Add your Email address
