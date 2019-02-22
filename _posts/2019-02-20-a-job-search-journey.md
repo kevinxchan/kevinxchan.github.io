@@ -2,7 +2,7 @@
 layout: post
 title:  "A job search journey"
 description: Resumes, interview questions, and things I wish I did
-date:   2019-02-20 16:16:00 +0200
+date:   2019-02-20 16:16:00 -0800
 categories: jekyll update
 ---
 
@@ -26,7 +26,7 @@ To wrap this section up, I'll explore a couple of things I found helpful during 
 
 On a related note to technical interview questions, one thing I'd go back and change is being able to solve a problem using multiple languages. My strongest language is Python, so naturally I used Python to solve almost all of the problems that came my way. While I am a huge fan of Python, there are some bad habits I developed which made it hard for me to transition back to other languages that I know - things like dynamic typing, data structures and syntax made it hard for me to reason about how I would be able to implement the *exact* same solution in a different language, like Java. Python has some really flexible data structures and neat shortcuts for different things, and I got used to them since I would invoke them so frequently. But the problem I came across was it wasn't easily translatable to other languages. As I was solidifying my algorithmic knowledge, I became a stronger Python programmer, but I found my skills in other languages deteriorating. So, note to self... next time, try and implement a solution in at least two languages!
 
-Another thing I would've done differently, while hard looking back at it, is to have started my projects earlier. Sometimes I felt like I was forcing myself to finish a project, which can impact the quality of the project and takes the fun out of it. I got into software engineering because I really enjoy building things and seeing my ideas manifest, but when working on my own projects, I would've preferred to take my time to build a quality product and enjoy the ride. Sometimes I felt blinded by my need to add to my resume and show off my skillset, when really I started these projects as a curious mind exploring an ecosystem. But I guess now that I've already built some projects, I won't feel this pressure anymore, right...?
+Another thing I would've done differently, while looking back at it, is to have started my projects earlier. Sometimes I felt like I was forcing myself to finish a project, which can impact the quality of the project and takes the fun out of it. I got into software engineering because I really enjoy building things and seeing my ideas manifest, but when working on my own projects, I would've preferred to take my time to build a quality product and enjoy the ride. Sometimes I felt blinded by my need to add to my resume and show off my skillset, when really I started these projects as a curious mind exploring an ecosystem. But I guess now that I've already built some projects, I won't feel this pressure anymore, right...?
 
 If you got to the end, thanks for reading! I also have some statistics and graphics on my job search for you to check out. 
 

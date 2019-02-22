@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello World! And dotfiles"
 description: The first blog post, dotfiles and configurations
-date:   2018-07-31 20:45:00 +0200
+date:   2018-07-31 20:45:00 -0800
 categories: jekyll update
 ---
 Hello World! 
