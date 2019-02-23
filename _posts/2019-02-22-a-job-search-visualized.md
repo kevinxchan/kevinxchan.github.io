@@ -60,9 +60,9 @@ My final comment is on how long I spent applying. The first and last application
 And there you have it. Everyone's experience is different, and I'm just sharing mine. Hopefully one day I can look back at this post to see where it all began.
 
 [job-search-journey-link]: https://www.kevinxchan.me/a-job-search-journey/ 
-[source-final-img]: {{site.baseurl}}/misc/R/source_fig_final.png
-[stage-final-img]: {{site.baseurl}}/misc/R/stage_fig_final.png
-[response-final-img]: {{site.baseurl}}/misc/R/response_fig_final.png
-[response-flow-img]: {{site.baseurl}}/misc/R/response_sankey.png
+[source-final-img]: {{site.baseurl}}/assets/img/2019-02-22-a-job-search-visualized/source_fig_final.png
+[stage-final-img]: {{site.baseurl}}/assets/img/2019-02-22-a-job-search-visualized/stage_fig_final.png
+[response-final-img]: {{site.baseurl}}/assets/img/2019-02-22-a-job-search-visualized/response_fig_final.png
+[response-flow-img]: {{site.baseurl}}/assets/img/2019-02-22-a-job-search-visualized/response_sankey.png
 [r-script-link]: https://gist.github.com/kevinxchan/006bebfa85e538286dff9f6988c08682
 [sankey]: http://sankeymatic.com/
