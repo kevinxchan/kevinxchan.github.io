@@ -12,6 +12,16 @@ permalink: /research/
 
 <div class="post-box">
 	<div class="icon-on-left">
+		<simple-svg class="simple-svg" data-icon="uil-cloud-database-tree" style="font-size: 5em; margin-right: .3em; float: left;"></simple-svg>
+		<b>Phylogenetic classification of long read sequences under the TreeSAPP pipeline</b>
+	</div>
+	<div>
+		<p>View my thesis <a href="https://open.library.ubc.ca/cIRcle/collections/undergraduateresearch/52966/items/1.0378444">here</a>!</p>
+		<p>TreeSAPP (Tree-based Sensitive and Accurate Protein Profiler) is an analysis pipeline designed to functionally and taxonomically classify protein and nucleotide sequences using marker genes and phylogenetic methods. Currently, TreeSAPP supports short read sequencing data (e.g. Illumina), but does not support long reads from newer sequencing platforms (e.g. Nanopore). Therefore, I tested 4 aligners with 10 isolate datasets sequenced using Oxford Nanopore Technologies against reference sequences of five single-copy phylogenetic marker genes. Of the 4 aligners tested, minimap2 performed the best when judged by raw and weighted averages of taxonomic distance of alignments to their optimal placements. I subsequently integrated minimap2 and wrote a feature for analyzing long reads in TreeSAPP, and did further testing.</p>
+
+		<p>The workflow performed well with isolate datasets, but poor recall was demonstrated with a mock community, suggesting required improvements in TreeSAPP’s linear model for taxonomic inference, or for higher resolution nucleotide reference packages.</p>
+	</div>
+	<div class="icon-on-left">
 		<simple-svg class="simple-svg" data-icon="whh-fullstar" style="font-size: 5em; margin-right: .3em; float: left;"></simple-svg>
 		<b>Genome assembly of previously undescribed symbionts on the pacific sea star <i>Pisaster ochraceus</i></b>
 	</div>
