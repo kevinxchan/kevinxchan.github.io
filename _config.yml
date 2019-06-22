@@ -1,5 +1,5 @@
 title: Kevin Chan
-description: Website and blog of Kevin Chan, a fourth year Computer Science and Microbiology major at UBC.
+description: Website and blog of Kevin Chan, a recent graduate UBC.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.kevinxchan.me" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
@@ -8,7 +8,7 @@ blog_theme: light # Or use dark
 # Profile information
 name: Home # top left corner of landing page (not really name)
 tagline: Computer Science and Microbiology
-about-description: Hi! I'm Kevin, a fourth year honour's student majoring in Microbiology, Immunology, and Computer Science at the University of British Columbia. Click around to find out more about me. # Add Discription
+about-description: Hi! I'm Kevin, a recent graduate from the University of British Columbia. I studied Computer science, Microbiology and Immunology. Click around to find out more about me. # Add Discription
 pic: pic_dim.png  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
